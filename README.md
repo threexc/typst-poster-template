@@ -28,3 +28,9 @@ typst compile poster_template.typ
 Details on how to modify the template for your needs can be found in the Typst
 documentation. The [tutorial](https://typst.app/docs/tutorial/) is a good place
 to start.
+
+## Examples
+
+The `examples/` directory contains `tgamblin_riscv_boardfarm.pdf`, which was a
+real poster printed and displayed at [RISC-V Summit EU
+2026](https://riscv-europe.org/summit/2026/).
